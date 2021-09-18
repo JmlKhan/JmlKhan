@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JmlKhan
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning reactJS
-- 💞️ I’m looking to collaborate on reacJS projects
+- 🌱 I’m currently working as a front-end developer
+- 💞️ I’m looking to collaborate on Vue JS projects
 - 📫 How to reach me jmlkhon17@gmail.com
 
 <!---
